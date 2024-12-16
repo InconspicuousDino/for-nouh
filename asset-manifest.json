@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/for-nouh/static/css/main.c680811f.css",
+    "main.js": "/for-nouh/static/js/main.410e919a.js",
+    "static/js/488.40656dea.chunk.js": "/for-nouh/static/js/488.40656dea.chunk.js",
+    "static/media/Pumpkin.PNG": "/for-nouh/static/media/Pumpkin.d03beda15f1b2c087bbf.PNG",
+    "static/media/Christmas.PNG": "/for-nouh/static/media/Christmas.546d6d7395deb156de23.PNG",
+    "static/media/somisomi.JPEG": "/for-nouh/static/media/somisomi.dd1040fb2bc9a689d2c7.JPEG",
+    "static/media/restart.png": "/for-nouh/static/media/restart.f9638e058b6217518139.png",
+    "index.html": "/for-nouh/index.html",
+    "main.c680811f.css.map": "/for-nouh/static/css/main.c680811f.css.map",
+    "main.410e919a.js.map": "/for-nouh/static/js/main.410e919a.js.map",
+    "488.40656dea.chunk.js.map": "/for-nouh/static/js/488.40656dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c680811f.css",
+    "static/js/main.410e919a.js"
+  ]
+}
