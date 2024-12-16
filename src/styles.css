@@ -1,0 +1,211 @@
+.container {
+  background-color: #ffd5e1;
+  height: 100vh;
+  width: 200vw;
+  position: absolute;
+  font-family: "Pacifico", cursive;
+}
+
+.background-gif {
+  margin-top: 30vh;
+  width: 150vw;
+  position: absolute;
+}
+
+.left-side-container {
+  color: black;
+  margin-left: 14vw;
+  margin-top: 14vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30vw;
+}
+
+h1 {
+  font-size: 100px;
+  margin-bottom: -20px;
+}
+
+h2 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+button {
+  background-color: rgb(119, 27, 164);
+  font-family: "Sour Gummy", serif;
+  width: 200px;
+  height: 60px;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: rgb(172, 59, 206);
+}
+
+.fifth-button:hover,
+.ninth-button:hover {
+  background-color: rgb(251, 255, 179);
+}
+
+.sixth-button:hover {
+  background-color: rgb(118, 239, 255);
+}
+
+.seventh-button:hover {
+  background-color: rgb(255, 128, 54);
+}
+
+.first-button {
+  background-color: rgb(119, 27, 164);
+  margin-top: 20px;
+}
+
+.second-button {
+  position: absolute;
+  left: 10vw;
+  top: 65vh;
+}
+
+.third-button {
+  position: absolute;
+  left: 40vw;
+  top: 70vh;
+}
+
+.fourth-button {
+  position: absolute;
+  left: 23.5vw;
+  top: 78vh;
+}
+
+.fifth-button {
+  background-color: rgb(242, 254, 11);
+  color: black;
+  position: absolute;
+  left: 50vw;
+  top: 12vh;
+}
+
+.sixth-button {
+  background-color: rgb(11, 226, 254);
+  color: black;
+  position: absolute;
+  left: 70vw;
+  top: 9vh;
+}
+
+.seventh-button {
+  background-color: rgb(254, 100, 11);
+  color: black;
+  position: absolute;
+  left: 82vw;
+  top: 14vh;
+}
+
+.eighth-button {
+  position: absolute;
+  left: 42vw;
+  top: 72vh;
+  transform: rotate(55deg);
+}
+
+.ninth-button {
+  background-color: rgb(242, 254, 11);
+  color: black;
+  position: absolute;
+  left: 8vw;
+  top: 76vh;
+  transform: rotate(-122deg);
+}
+
+.tenth-button {
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  left: 26vw;
+  top: 10vh;
+}
+
+.eleventh-button {
+  width: 120px;
+  height: 36px;
+  position: absolute;
+  left: 16vw;
+  top: 14vh;
+}
+
+.twelfth-button {
+  width: 300px;
+  height: 90px;
+  font-size: 50px;
+  position: absolute;
+  left: 40vw;
+  top: 10vh;
+}
+
+.restart-button {
+  position: absolute;
+  opacity: 60%;
+  left: 93vw;
+  top: 89vh;
+  width: 60px;
+  color: white;
+  padding-top: 4px;
+}
+
+.end-container {
+  background-color: rgb(11, 4, 18);
+  color: white;
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  font-family: "Pacifico", cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heart-background {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+}
+
+.end-container > h1 {
+  position: relative;
+  align-items: center;
+  text-shadow: 3px 3px 4px purple;
+}
+
+.end-container > img {
+  height: auto;
+  border: 8px solid white;
+  border-radius: 4px;
+}
+
+.christmas-pic {
+  width: 300px;
+  position: absolute;
+  left: 75vw;
+  top: 20vh;
+  transform: rotate(-15deg);
+}
+
+.pumpkin-pic {
+  width: 250px;
+  position: absolute;
+  left: 8vw;
+  top: 20vh;
+  transform: rotate(15deg);
+}
+
+.somisomi-pic {
+  width: 550px;
+  position: absolute;
+  top: 40vh;
+}
